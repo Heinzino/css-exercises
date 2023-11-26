@@ -1,0 +1,14 @@
+.BlackButton,
+.YellowButton{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman',sans-serif;
+}
+
+.BlackButton{
+    background-color: black;
+    color: #FFFF;
+}
+
+.YellowButton{
+    background-color: hsl(59,100%,75%);
+}
